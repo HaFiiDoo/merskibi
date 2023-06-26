@@ -1,1 +1,27 @@
+bannerIDBegin bannerIDLast
+interstitialIDBegin interstitialIDLast
+rewardIDBegin rewardIDlast
+
+FANbannerIDBegin FANbannerIDLast
+FANinterstitialIDBegin FANinterstitialIDLast
+FANrewardIDBegin FANrewardIDLast
+
+
+unityIDBegin                   unityIDLast
+unitybannerIDBegin                   unitybannerIDLast
+unityinterstitialIDBegin            unityinterstitialIDLast
+unityrewardIDBegin                  unityrewardIDLast	
+
+
+AplovinsdkIDBegin            AplovinsdkIDLast
+AplovinbannerIDBegin    AplovinbannerIDLast
+AplovininterstitialIDBeginAplovininterstitialIDLast
+AplovinrewardIDBeginAplovinrewardIDLast	
+
+
+
+irssdkIDBegin               irssdkIDLast
+irsbannerIDBegin             irsbannerIDLast
+irsinterstitialIDBegin         irsinterstitialIDLast
+irsrewardIDBegin             irsrewardIDLast	
 
